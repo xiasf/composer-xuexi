@@ -1,5 +1,5 @@
 {
-    "name": "xiasf/composer-hello",
+    "name": "xiasf/composer-xuexi",
     "description": "composer 学习例子，这是一个可以安装的包",
     "require": {
         "monolog/monolog": "1.0.*"
